@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "WCR70eSPt7ma+HmsXWDGAOtZHtU3oPigOITvjYvy/SE=",
+  "Source": "AutoCareAPI",
+  "BasePath": "_content/AutoCareAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoCareAPI\\wwwroot",
+      "Source": "AutoCareAPI",
+      "ContentRoot": "C:\\Users\\Raja Singh\\Documents\\GIT\\APPLICATION_CarManagement\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Raja Singh\\Documents\\GIT\\APPLICATION_CarManagement\\AutoCareAPI\\wwwroot\\index.html",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raja Singh\\Documents\\GIT\\APPLICATION_CarManagement\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

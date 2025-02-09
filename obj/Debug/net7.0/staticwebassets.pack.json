@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Raja Singh\\Documents\\GIT\\APPLICATION_CarManagement\\AutoCareAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AutoCareAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AutoCareAPI.props",
+      "PackagePath": "build\\AutoCareAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AutoCareAPI.props",
+      "PackagePath": "buildMultiTargeting\\AutoCareAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AutoCareAPI.props",
+      "PackagePath": "buildTransitive\\AutoCareAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
